@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Conversation Fusen Memo",
+    "slug": "conversation-fusen-memo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "fusenmemo",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F5F5F3"
+      }
+    },
+    "notification": {
+      "color": "#4C6FFF"
+    }
+  }
+}
